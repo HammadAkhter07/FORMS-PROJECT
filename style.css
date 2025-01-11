@@ -1,0 +1,47 @@
+input {
+       margin-top: 20px;
+       margin-bottom: 20px;
+       padding: 8px;
+       border-radius: 20px;
+       font-size: 16px;
+       /* margin: 30px 20px 30px 20px;b */
+
+ }
+ input:focus {
+    border: 2px solid red;
+    background-color: burlywood;
+    color: rgb(11, 54, 245);
+
+ }
+
+/* label {
+   padding: 20px;
+} */
+body {
+    background-repeat: no-repeat;
+    color: crimson;
+    border-radius: 20px;
+    width: 1200;
+    /* border: 1px solid black;
+    width: 100%; */
+}
+button:hover {
+     border-radius: 20px;
+     color: crimson;
+     background-color:black;
+}
+button {
+    background: #000;
+    color: cornflowerblue;
+    border-radius: 20px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20211031/pngtree-abstract-bg-image_914283.png");
+    background-size: contain;
+    width: 50vw;
+    height: 100vh;
+
+}
